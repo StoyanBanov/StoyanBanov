@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stoyan</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">A passionate JavaScript developer</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyanbanov&show_icons=true&locale=en&layout=compact" alt="stoyanbanov" /></p>
 
